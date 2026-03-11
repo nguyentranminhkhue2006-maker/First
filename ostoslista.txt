@@ -1,4 +1,4 @@
--eOmenat\nAppelsiinit\nBanaanit\nKananmunat\nHapankaali\nEND
+Omena
 -e\npuuro
 
 Banaani
