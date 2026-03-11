@@ -1,2 +1,4 @@
 -eOmenat\nAppelsiinit\nBanaanit\nKananmunat\nHapankaali\nEND
 -e\npuuro
+
+Banaani
